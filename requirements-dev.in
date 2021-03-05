@@ -9,3 +9,6 @@ xgboost
 plotly-express
 matplotlib
 seaborn
+pyarrow
+fastparquet
+pytest
