@@ -1,9 +1,0 @@
-Instruction, AbleTo Machine Learning Engineer Tech Assessment
-
-As the next step in our recruiting process, we ask that you productionize the "AbleTo MLE tech assessment" Jupyter notebook. In this ML project, we build ML models to predict home value based on features collected. Training dataset is in the train.csv file, and data_desc.txt is a dictionary of the data. We also look at top predictors that are driving the predictions. Please feel free to add more ML components into it. If you do so, please clearly state those additional components in your submission so that we can credit them.
-
-We do not expect this to be a polished project and really would just like to see how you productionize machine learning models. Any missing portions can be described in the submission as plan for next step.
-
-As part of the exercise, please send us your productionized code within 72 hours, with instruction on how to execute the code. We ask that you keep the content of this test confidential.
-
-Of course, feel free to reach out if you have any questions.

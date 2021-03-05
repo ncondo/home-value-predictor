@@ -1,0 +1,11 @@
+-c requirements.txt
+jupyter
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+xgboost
+plotly-express
+matplotlib
+seaborn
